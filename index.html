@@ -1,17 +1,41 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>首页</title>
-<meta charset="utf-8"/>
-</head>
 
+<style type="text/css">
+
+#web_bg{
+  position:fixed;
+  top: 0;
+  left: 0;
+  width:100%;
+  height:100%;
+  min-width: 1000px;
+  z-index:-10;
+  zoom: 1;
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-position: center 0;
+}
+</style>
+
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>title</title>
+</head>
 <body>
-<p>
-表格从table标签开始<br>
+<div class="wrapper">
+    <!--背景图片-->
+    <div id="web_bg" style="background-image: url(i/background.jpg);"></div>
+    <!--其他代码 ... -->
+	表格从table标签开始<br>
 接着从tr开始--决定行<br>
 最后是td--决定列加填数据
 </p>
-</body>
+
 
 <p>一列：<br>
 <table border="1">
@@ -65,4 +89,7 @@
 
 </table>
 </pre>
+
+</div>
+</body>
 </html>
