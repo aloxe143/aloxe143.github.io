@@ -6586,7 +6586,7 @@ header h1 {
   margin-bottom: 0; }
 
 header h1 span {
-  color: rgba(155, 199, 243, 1); }
+  color: #9BC7F3; }
 
 .sidebar-social-icons {
   margin-top: 20px; }
@@ -6706,7 +6706,7 @@ article {
   padding-bottom: 2rem; }
 
 article h2.article-title {
-  font-size: 2.5rem;
+  font-size: 20px;
   margin-bottom: 0;
   color: #104E8B;
   letter-spacing: -1px; }

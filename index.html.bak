@@ -60,7 +60,7 @@
                                 </li>
 
                                 <li class="nav-item">
-                                        <a class="nav-link" href="#">备忘录</a>
+                                        <a class="nav-link" href="note.html">备忘录</a>
                                 </li>
                             </ul>
                         </div>   
@@ -82,19 +82,12 @@
                                 <div class="carousel-item active">
 									<div class="jumbotron">
 								<!-- 这里插图片 -->
-								     <h1 class="text-center"><img src="i/1.jpg"/> </h1>
+								     <h1 class="text-center">嘘寒问暖不如打笔巨款</h1>
                                     </div>
 
                                 </div>
 
-                                <div class="carousel-item">
-                                    <div class="jumbotron">
-                                        <!-- 这里插另一张图片 -->
-										<h1 class="text-center"><img src="i/2.jpg"/> </h1>
-                                    </div>
 
-                                </div>
-                            </div>
 
                             <a class="carousel-control-prev" href="#mainCarousel" role="button" data-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -116,21 +109,21 @@
                         <!-- Main content -->
                         <div class="col-md-8">
                             <article>
-                                <h2 class="article-title">还没完工啊唉</h2>
+                                <h2 class="article-title">江城子·乙卯正月二十日夜记梦</h2>
 								<!-- 下面这行是作者和时间 
                                 <p class="article-meta">Posted on <time datetime="2019-11-19">14 May</time> by <a href="#" rel="author">Joe Bloggs</a></p>
 								-->
+								<p class="article-meta">[宋]  苏轼</p>
+								<p></p>
+								<p style="font-size:20px;">十年生死两茫茫，不思量，自难忘。</p>
+								<p style="font-size:20px;">千里孤坟，无处话凄凉。</p>
+								<p style="font-size:20px;">纵使相逢应不识，尘满面，鬓如霜。</p>
+								<p style="font-size:20px;">夜来幽梦忽还乡，小轩窗，正梳妆。</p>
+								<p style="font-size:20px;">相顾无言，惟有泪千行。</p>
+								<p style="font-size:20px;">料得年年肠断处，明月夜，短松冈。</p>
                                 <ul>
-									<li>一整个晚上了</li>
-                                    <li>背景色调成这样</li>
-                                    <li>左边的网页一个没做</li>
-                                    <li>滑动的图片也是随便贴的</li>
-                                    <li>甚至连下面的两个按钮都是假的</li>
+
                                 </ul>
-
-                                <a href="#" class="btn btn-primary">别点</a>
-                                <a href="#" class="btn btn-secondary">没用</a>
-
                             </article>
 
 
